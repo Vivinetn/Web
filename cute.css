@@ -1,0 +1,104 @@
+body, h1, h2, h3, p, ul, li, nav {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 16px;
+}
+
+header {
+    background-color: #e82163; 
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+aside {
+    background-color: #FFC0CB;
+    width: 200px;
+    float: left;
+    height: 635px;
+    padding: 10px;
+}
+
+aside ul {
+    list-style: none;
+}
+
+aside ul li {
+    margin-bottom: 10px;
+}
+
+aside a {
+    text-decoration: none;
+    color: #e82163;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+main {
+    margin-left: 220px; 
+    padding: 20px;
+    height: 615px;
+}
+
+footer {
+    clear: both;
+    background-color: #e82163;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+h1 {
+    color: #FF69B4;
+}
+
+p {
+    color: #FF69B4;
+    font-size: 18px;
+}
+
+main {
+    background-color: #FFF5EE;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #FF69B4;
+    color: #fff;
+}
+
+
